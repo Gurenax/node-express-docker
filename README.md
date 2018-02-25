@@ -1,4 +1,5 @@
-# Node Express Docker
+# Node Express Docker using Yarn
+These are procedures to run Docker on Node/Express while using Yarn instead of NPM. The main reason for creating this guide is to enable Yarn-built repositories to run on a Docker images (e.g. React Apps, React Native Apps).
 
 ## Steps to get this working
 
